@@ -1,0 +1,462 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/game-tabs\n"
+"POT-Creation-Date: 2011-06-01 21:34:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2011-06-02 00:53+0100\n"
+"Last-Translator: Lars-Andreas Kvisle <lars@kvisle.no>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: match_tour_detail.php:13
+#: team_detail.php:15
+#: match_detail.php:15
+#: configuration.php:36
+#: tournament_detail.php:13
+#: xml_detail.php:13
+msgid "You do not have sufficient permissions to manage options for this site."
+msgstr "Du har ikke tilstrekkelige rettigheter til å endre innstillinger for denne nettsiden."
+
+#: match_tour_detail.php:15
+msgid "Tournament Team Detail"
+msgstr "Detaljer for lag i seriespill"
+
+#: match_tour_detail.php:18
+#: team_detail.php:21
+#: match_detail.php:21
+#: configuration.php:41
+#: tournament_detail.php:18
+#: configuration_xml.php:31
+#: xml_detail.php:19
+msgctxt "timezone date format"
+msgid "Y-m-d G:i:s"
+msgstr ""
+
+#: match_tour_detail.php:75
+msgid "URL field will link to \"More info\" in Tabell"
+msgstr "URL-felt lenker til \"Mer informasjon\" i Tabell"
+
+#: match_tour_detail.php:78
+#: match_detail.php:211
+msgid "Id"
+msgstr "Id"
+
+#: match_tour_detail.php:79
+#: tournament_detail.php:93
+msgid "Tournament Name"
+msgstr "Serienavn"
+
+#: match_tour_detail.php:81
+#: team_detail.php:96
+#: tabell.php:31
+#: my-game-tabs.php:337
+msgid "Team Name"
+msgstr "Lag"
+
+#: match_tour_detail.php:82
+msgid "Org Element Id"
+msgstr ""
+
+#: match_tour_detail.php:83
+msgid "Local Council"
+msgstr ""
+
+#: match_tour_detail.php:84
+msgid "No. Matches"
+msgstr "Ant. kamper"
+
+#: match_tour_detail.php:85
+msgid "No. Wins"
+msgstr "Ant. seire"
+
+#: match_tour_detail.php:86
+msgid "No. Draws"
+msgstr "Ant. uavgjort"
+
+#: match_tour_detail.php:87
+msgid "No. Losses"
+msgstr "Ant. tap"
+
+#: match_tour_detail.php:89
+msgid "No. Goals"
+msgstr "Mål scoret"
+
+#: match_tour_detail.php:90
+msgid "No. Against"
+msgstr "Mål innsluppet"
+
+#: match_tour_detail.php:91
+msgid "No. Diff"
+msgstr "Målforskjell"
+
+#: match_tour_detail.php:92
+#: my-game-tabs.php:337
+msgid "Points"
+msgstr "Poeng"
+
+#: match_tour_detail.php:93
+#: team_detail.php:97
+#: match_detail.php:226
+#: naste.php:33
+#: games.php:31
+#: tournament_detail.php:98
+msgid "URL"
+msgstr ""
+
+#: match_tour_detail.php:94
+#: tournament_detail.php:99
+msgid "Action"
+msgstr ""
+
+#: match_tour_detail.php:131
+#: team_detail.php:126
+#: match_detail.php:268
+#: naste.php:84
+#: games.php:84
+#: tabell.php:112
+#: my-game-tabs.php:129
+#: my-game-tabs.php:195
+#: my-game-tabs.php:366
+#: tournament_detail.php:131
+msgid "No Records"
+msgstr "Ingen informasjon"
+
+#: team_detail.php:17
+msgid "Team Detail"
+msgstr "Laginformasjon"
+
+#: team_detail.php:93
+msgid "URL field will link to the away team site in \"Latest matches\" and \"Last five\" "
+msgstr "URL-felt lenker til bortelaget sin nettside i \"Siste kamper\" og \"Siste fem\""
+
+#: team_detail.php:95
+msgid "Team ID"
+msgstr "Lag ID"
+
+#: team_detail.php:98
+#: match_detail.php:227
+msgid "save"
+msgstr "Lagre"
+
+#: match_detail.php:17
+msgid "Matches Detail"
+msgstr "Kampdetaljer"
+
+#: match_detail.php:208
+msgid "URL field will link to the result in \"Latest matches\""
+msgstr "URL-felt lenker til resultat i \"Siste kamper\""
+
+#: match_detail.php:212
+msgid "Match Id"
+msgstr "Kamp ID"
+
+#: match_detail.php:213
+msgid "Match Number"
+msgstr "Kampnummer"
+
+#: match_detail.php:214
+#: naste.php:27
+#: games.php:25
+#: my-game-tabs.php:84
+#: my-game-tabs.php:152
+msgid "Date"
+msgstr "Dato"
+
+#: match_detail.php:215
+msgid "Round Id"
+msgstr "Runde ID"
+
+#: match_detail.php:217
+#: naste.php:29
+#: games.php:27
+#: my-game-tabs.php:84
+#: my-game-tabs.php:152
+msgid "Home Team"
+msgstr "Hjemme"
+
+#: match_detail.php:219
+#: naste.php:30
+#: games.php:28
+#: my-game-tabs.php:84
+#: my-game-tabs.php:152
+msgid "Away Team"
+msgstr "Borte"
+
+#: match_detail.php:220
+msgid "Match Start Time"
+msgstr "Kampstart"
+
+#: match_detail.php:221
+msgid "Home Goals"
+msgstr "Mål hjemme"
+
+#: match_detail.php:222
+msgid "Away Goals"
+msgstr "Mål borte"
+
+#: match_detail.php:223
+msgid "Incidents In"
+msgstr ""
+
+#: match_detail.php:224
+msgid "Venue Id"
+msgstr "Bane ID"
+
+#: match_detail.php:225
+msgid "Venue Name"
+msgstr "Banenavn"
+
+#: naste.php:7
+#: configuration.php:193
+msgid "Last five"
+msgstr "Fremtidige kamper"
+
+#: naste.php:28
+#: games.php:26
+#: my-game-tabs.php:84
+#: my-game-tabs.php:152
+msgid "Time"
+msgstr "Kl"
+
+#: naste.php:31
+#: games.php:29
+#: my-game-tabs.php:152
+msgid "Venue"
+msgstr "Bane"
+
+#: naste.php:32
+#: games.php:30
+#: my-game-tabs.php:84
+msgid "Result"
+msgstr "Resultat"
+
+#: naste.php:74
+#: games.php:72
+#: tabell.php:103
+msgid "Match info"
+msgstr "Kampinfo"
+
+#: games.php:6
+#: my-game-tabs.php:67
+#: main_page.php:58
+msgid "Latest matches"
+msgstr "Resultater"
+
+#: tabell.php:7
+#: my-game-tabs.php:204
+#: main_page.php:73
+msgid "Table"
+msgstr "Tabell"
+
+#: tabell.php:32
+msgid "total"
+msgstr "Hjemme og borte"
+
+#: tabell.php:33
+msgid "home games"
+msgstr "Hjemme"
+
+#: tabell.php:34
+msgid "away games"
+msgstr "Borte"
+
+#: tabell.php:35
+msgid "DIF"
+msgstr "+/-"
+
+#: tabell.php:36
+msgid "P"
+msgstr ""
+
+#: tabell.php:37
+msgid "More info"
+msgstr "Info"
+
+#: tabell.php:40
+#: tabell.php:45
+#: tabell.php:50
+msgid "K"
+msgstr ""
+
+#: tabell.php:41
+#: tabell.php:46
+#: tabell.php:51
+msgid "S"
+msgstr ""
+
+#: tabell.php:42
+#: tabell.php:47
+#: tabell.php:52
+msgid "U"
+msgstr ""
+
+#: tabell.php:43
+#: tabell.php:48
+#: tabell.php:53
+msgid "T"
+msgstr ""
+
+#: tabell.php:44
+#: tabell.php:49
+#: tabell.php:54
+msgid "Mdif"
+msgstr "Mål"
+
+#: my-game-tabs.php:126
+#: my-game-tabs.php:193
+msgid "show all matches"
+msgstr "Vis alle kamper"
+
+#: my-game-tabs.php:138
+msgid "Next five"
+msgstr "Neste"
+
+#: my-game-tabs.php:337
+msgid "Number"
+msgstr "#"
+
+#: my-game-tabs.php:337
+msgid "Game Played"
+msgstr "Kamper"
+
+#: my-game-tabs.php:337
+msgid "Goal Diff"
+msgstr "Mål+/-"
+
+#: my-game-tabs.php:364
+msgid "show entire table"
+msgstr "Vis hele tabellen"
+
+#: my-game-tabs.php:566
+msgid "Game tabs"
+msgstr ""
+
+#: my-game-tabs.php:588
+msgid "Game Menu"
+msgstr ""
+
+#: my-game-tabs.php:588
+msgid "Team config"
+msgstr ""
+
+#: my-game-tabs.php:592
+msgid "Front Configuration"
+msgstr ""
+
+#: my-game-tabs.php:593
+msgid "XML Configuration"
+msgstr ""
+
+#: my-game-tabs.php:594
+msgid "Match"
+msgstr ""
+
+#: my-game-tabs.php:595
+msgid "Tournament"
+msgstr ""
+
+#: my-game-tabs.php:596
+msgid "Tournament Details"
+msgstr ""
+
+#: my-game-tabs.php:597
+msgid "Team"
+msgstr ""
+
+#: configuration.php:38
+msgid "Configuration"
+msgstr ""
+
+#: configuration.php:166
+msgid "Widget Header"
+msgstr "Overskrift widget"
+
+#: configuration.php:169
+msgid "Widget Width"
+msgstr "Bredde (px) widgetvisning"
+
+#: configuration.php:172
+msgid "Page Width"
+msgstr "Bredde (px) sidevisning"
+
+#: configuration.php:175
+msgid "Number Of row in Widget"
+msgstr "Antall rader som vises i widget"
+
+#: configuration.php:184
+msgid " Show Latest matches"
+msgstr "Vis siste kamper"
+
+#: configuration.php:202
+msgid "Show Table"
+msgstr "Vis tabell"
+
+#: configuration.php:213
+msgid "Tick to activate automatic link of Sted(bane) to Google maps"
+msgstr "Huk av hvis du ønsker automatisk lenke til Sted (bane) i Google maps"
+
+#: configuration.php:287
+#: configuration.php:296
+#: configuration_xml.php:393
+msgid "Setup"
+msgstr ""
+
+#: configuration.php:288
+#: configuration_xml.php:394
+msgid "is displaying"
+msgstr ""
+
+#: configuration.php:290
+#: configuration_xml.php:397
+msgid "with"
+msgstr ""
+
+#: configuration.php:292
+#: configuration_xml.php:399
+msgid "and"
+msgstr ""
+
+#: configuration.php:297
+msgid "have not select any team to display"
+msgstr ""
+
+#: tournament_detail.php:15
+msgid "Tournament Detail"
+msgstr ""
+
+#: tournament_detail.php:90
+msgid "ID"
+msgstr ""
+
+#: tournament_detail.php:91
+msgid "Job Name"
+msgstr ""
+
+#: tournament_detail.php:94
+msgid "Tournament Type"
+msgstr ""
+
+#: tournament_detail.php:95
+msgid "Nation"
+msgstr "Nasjonalitet"
+
+#: tournament_detail.php:96
+msgid "Gender"
+msgstr "Kjønn"
+
+#: xml_reader.php:123
+msgid " <br/> cURL is not installed on your PHP installation.<br/>Get cURL working on your server.<br/>If you don't know how, contact your host"
+msgstr "<br/> cURL er ikke installert på din PHP-server. <br/> Innstaller cURL. <br/> Kontakt vert for nettsiden hvis du ikke har adgang til å gjøre det selv eller vet hvordan det gjøres."
+
+#: xml_detail.php:15
+msgid "XML Detail"
+msgstr ""
+
+#: main_page.php:66
+msgid "Next matches"
+msgstr "Fremtidige kamper"
+
